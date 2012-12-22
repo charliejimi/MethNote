@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F707175168176CD0092615D /* BGkawa2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F707174168176CD0092615D /* BGkawa2.PNG */; };
+		2F707178168179280092615D /* BGkawa3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F707177168179280092615D /* BGkawa3.PNG */; };
+		2F94396B16818CAC00D45BAD /* BGkawa4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F94396A16818CAC00D45BAD /* BGkawa4.PNG */; };
+		2F94396E16819D6300D45BAD /* kawano1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F94396D16819D6300D45BAD /* kawano1.PNG */; };
+		2F94397016819EE300D45BAD /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F94396F16819EE300D45BAD /* Default.png */; };
+		2F9439721681A13E00D45BAD /* BGkawa5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F9439711681A13E00D45BAD /* BGkawa5.PNG */; };
+		2F9439781681A9DD00D45BAD /* icon3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F9439771681A9DD00D45BAD /* icon3.PNG */; };
+		2F94397A1681A9F100D45BAD /* icon3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2F9439791681A9F100D45BAD /* icon3.PNG */; };
+		2FE6049A1680973D00A38EF7 /* kawa5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2FE604991680973D00A38EF7 /* kawa5.PNG */; };
+		2FE6049D1680974C00A38EF7 /* kawa6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2FE6049C1680974C00A38EF7 /* kawa6.PNG */; };
+		2FE6049F1680976400A38EF7 /* newBt.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2FE6049E1680976400A38EF7 /* newBt.PNG */; };
+		CB0D766116357448004415FE /* Ooperating.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0D766016357448004415FE /* Ooperating.m */; };
+		CBDA00901634DB3E00147AF2 /* transformation.m in Sources */ = {isa = PBXBuildFile; fileRef = CBDA008F1634DB3E00147AF2 /* transformation.m */; };
 		CBDD80CA163286D10062D013 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBDD80C9163286D10062D013 /* UIKit.framework */; };
 		CBDD80CC163286D10062D013 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBDD80CB163286D10062D013 /* Foundation.framework */; };
 		CBDD80CE163286D10062D013 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBDD80CD163286D10062D013 /* CoreGraphics.framework */; };
@@ -18,9 +31,35 @@
 		CBDD80E0163286D10062D013 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CBDD80DF163286D10062D013 /* Default-568h@2x.png */; };
 		CBDD80E3163286D10062D013 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBDD80E1163286D10062D013 /* MainStoryboard.storyboard */; };
 		CBDD80E6163286D10062D013 /* CalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBDD80E5163286D10062D013 /* CalculatorViewController.m */; };
+		CBE0C17016352AAB0034E9BE /* CalculatorBrain.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE0C16F16352AAB0034E9BE /* CalculatorBrain.m */; };
+		CBE5BC7216456C1400B5D7FE /* Shiftback.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BC7116456C1400B5D7FE /* Shiftback.m */; };
+		CBE635EE167B5028008709B6 /* 木皮.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE635ED167B5028008709B6 /* 木皮.png */; };
+		CBE635F2167B503D008709B6 /* 鋼板1.png in Resources */ = {isa = PBXBuildFile; fileRef = CBE635F0167B503D008709B6 /* 鋼板1.png */; };
+		CBE635F3167B503D008709B6 /* 鋼板2 in Resources */ = {isa = PBXBuildFile; fileRef = CBE635F1167B503D008709B6 /* 鋼板2 */; };
+		CBE6362A167B5B13008709B6 /* MyPaletteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CBE63629167B5B13008709B6 /* MyPaletteViewController.xib */; };
+		CBE6362F167B5B27008709B6 /* MyPaletteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE6362C167B5B27008709B6 /* MyPaletteViewController.m */; };
+		CBE63630167B5B27008709B6 /* Palette.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE6362E167B5B27008709B6 /* Palette.m */; };
+		CBEBD48D1644E25700778DE8 /* Inserting.m in Sources */ = {isa = PBXBuildFile; fileRef = CBEBD48C1644E25700778DE8 /* Inserting.m */; };
+		CBF377C7167CAFA8005CFC55 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CBF377C6167CAFA8005CFC55 /* logo.png */; };
+		CBF377C9167CAFB2005CFC55 /* mejji.png in Resources */ = {isa = PBXBuildFile; fileRef = CBF377C8167CAFB2005CFC55 /* mejji.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F707174168176CD0092615D /* BGkawa2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGkawa2.PNG; sourceTree = "<group>"; };
+		2F707177168179280092615D /* BGkawa3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGkawa3.PNG; sourceTree = "<group>"; };
+		2F94396A16818CAC00D45BAD /* BGkawa4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGkawa4.PNG; sourceTree = "<group>"; };
+		2F94396D16819D6300D45BAD /* kawano1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kawano1.PNG; sourceTree = "<group>"; };
+		2F94396F16819EE300D45BAD /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2F9439711681A13E00D45BAD /* BGkawa5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGkawa5.PNG; sourceTree = "<group>"; };
+		2F9439771681A9DD00D45BAD /* icon3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon3.PNG; sourceTree = "<group>"; };
+		2F9439791681A9F100D45BAD /* icon3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon3.PNG; sourceTree = "<group>"; };
+		2FE604991680973D00A38EF7 /* kawa5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kawa5.PNG; sourceTree = "<group>"; };
+		2FE6049C1680974C00A38EF7 /* kawa6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kawa6.PNG; sourceTree = "<group>"; };
+		2FE6049E1680976400A38EF7 /* newBt.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newBt.PNG; sourceTree = "<group>"; };
+		CB0D765F16357448004415FE /* Ooperating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ooperating.h; sourceTree = "<group>"; };
+		CB0D766016357448004415FE /* Ooperating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ooperating.m; sourceTree = "<group>"; };
+		CBDA008E1634DB3E00147AF2 /* transformation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = transformation.h; sourceTree = "<group>"; };
+		CBDA008F1634DB3E00147AF2 /* transformation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = transformation.m; sourceTree = "<group>"; };
 		CBDD80C5163286D10062D013 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBDD80C9163286D10062D013 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CBDD80CB163286D10062D013 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +76,22 @@
 		CBDD80E2163286D10062D013 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CBDD80E4163286D10062D013 /* CalculatorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalculatorViewController.h; sourceTree = "<group>"; };
 		CBDD80E5163286D10062D013 /* CalculatorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorViewController.m; sourceTree = "<group>"; };
+		CBE0C16E16352AAB0034E9BE /* CalculatorBrain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorBrain.h; sourceTree = "<group>"; };
+		CBE0C16F16352AAB0034E9BE /* CalculatorBrain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorBrain.m; sourceTree = "<group>"; };
+		CBE5BC7016456C1400B5D7FE /* Shiftback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shiftback.h; sourceTree = "<group>"; };
+		CBE5BC7116456C1400B5D7FE /* Shiftback.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Shiftback.m; sourceTree = "<group>"; };
+		CBE635ED167B5028008709B6 /* 木皮.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "木皮.png"; sourceTree = "<group>"; };
+		CBE635F0167B503D008709B6 /* 鋼板1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "鋼板1.png"; sourceTree = "<group>"; };
+		CBE635F1167B503D008709B6 /* 鋼板2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "鋼板2"; sourceTree = "<group>"; };
+		CBE63629167B5B13008709B6 /* MyPaletteViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyPaletteViewController.xib; sourceTree = "<group>"; };
+		CBE6362B167B5B27008709B6 /* MyPaletteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPaletteViewController.h; sourceTree = "<group>"; };
+		CBE6362C167B5B27008709B6 /* MyPaletteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPaletteViewController.m; sourceTree = "<group>"; };
+		CBE6362D167B5B27008709B6 /* Palette.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Palette.h; sourceTree = "<group>"; };
+		CBE6362E167B5B27008709B6 /* Palette.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Palette.m; sourceTree = "<group>"; };
+		CBEBD48B1644E25600778DE8 /* Inserting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Inserting.h; sourceTree = "<group>"; };
+		CBEBD48C1644E25700778DE8 /* Inserting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Inserting.m; sourceTree = "<group>"; };
+		CBF377C6167CAFA8005CFC55 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		CBF377C8167CAFB2005CFC55 /* mejji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mejji.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +111,8 @@
 		CBDD80BA163286D10062D013 = {
 			isa = PBXGroup;
 			children = (
+				2F9439791681A9F100D45BAD /* icon3.PNG */,
+				2F94396F16819EE300D45BAD /* Default.png */,
 				CBDD80CF163286D10062D013 /* Calculator */,
 				CBDD80C8163286D10062D013 /* Frameworks */,
 				CBDD80C6163286D10062D013 /* Products */,
@@ -83,11 +140,26 @@
 		CBDD80CF163286D10062D013 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				CBE6362B167B5B27008709B6 /* MyPaletteViewController.h */,
+				CBE6362C167B5B27008709B6 /* MyPaletteViewController.m */,
+				CBE6362D167B5B27008709B6 /* Palette.h */,
+				CBE6362E167B5B27008709B6 /* Palette.m */,
+				CBE63629167B5B13008709B6 /* MyPaletteViewController.xib */,
+				CBE0C16E16352AAB0034E9BE /* CalculatorBrain.h */,
+				CBE0C16F16352AAB0034E9BE /* CalculatorBrain.m */,
 				CBDD80D8163286D10062D013 /* CalculatorAppDelegate.h */,
 				CBDD80D9163286D10062D013 /* CalculatorAppDelegate.m */,
 				CBDD80E1163286D10062D013 /* MainStoryboard.storyboard */,
 				CBDD80E4163286D10062D013 /* CalculatorViewController.h */,
+				CBE5BC7016456C1400B5D7FE /* Shiftback.h */,
+				CBE5BC7116456C1400B5D7FE /* Shiftback.m */,
 				CBDD80E5163286D10062D013 /* CalculatorViewController.m */,
+				CBEBD48B1644E25600778DE8 /* Inserting.h */,
+				CBEBD48C1644E25700778DE8 /* Inserting.m */,
+				CB0D765F16357448004415FE /* Ooperating.h */,
+				CB0D766016357448004415FE /* Ooperating.m */,
+				CBDA008E1634DB3E00147AF2 /* transformation.h */,
+				CBDA008F1634DB3E00147AF2 /* transformation.m */,
 				CBDD80D0163286D10062D013 /* Supporting Files */,
 			);
 			path = Calculator;
@@ -96,7 +168,21 @@
 		CBDD80D0163286D10062D013 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2F707174168176CD0092615D /* BGkawa2.PNG */,
+				2F94396D16819D6300D45BAD /* kawano1.PNG */,
+				2FE6049C1680974C00A38EF7 /* kawa6.PNG */,
+				CBF377C8167CAFB2005CFC55 /* mejji.png */,
+				2F9439771681A9DD00D45BAD /* icon3.PNG */,
+				2F9439711681A13E00D45BAD /* BGkawa5.PNG */,
+				2FE6049E1680976400A38EF7 /* newBt.PNG */,
+				2FE604991680973D00A38EF7 /* kawa5.PNG */,
+				CBF377C6167CAFA8005CFC55 /* logo.png */,
+				CBE635F0167B503D008709B6 /* 鋼板1.png */,
+				CBE635F1167B503D008709B6 /* 鋼板2 */,
+				2F707177168179280092615D /* BGkawa3.PNG */,
+				CBE635ED167B5028008709B6 /* 木皮.png */,
 				CBDD80D1163286D10062D013 /* Calculator-Info.plist */,
+				2F94396A16818CAC00D45BAD /* BGkawa4.PNG */,
 				CBDD80D2163286D10062D013 /* InfoPlist.strings */,
 				CBDD80D5163286D10062D013 /* main.m */,
 				CBDD80D7163286D10062D013 /* Calculator-Prefix.pch */,
@@ -164,6 +250,23 @@
 				CBDD80DE163286D10062D013 /* Default@2x.png in Resources */,
 				CBDD80E0163286D10062D013 /* Default-568h@2x.png in Resources */,
 				CBDD80E3163286D10062D013 /* MainStoryboard.storyboard in Resources */,
+				CBE635EE167B5028008709B6 /* 木皮.png in Resources */,
+				CBE635F2167B503D008709B6 /* 鋼板1.png in Resources */,
+				CBE635F3167B503D008709B6 /* 鋼板2 in Resources */,
+				CBE6362A167B5B13008709B6 /* MyPaletteViewController.xib in Resources */,
+				CBF377C7167CAFA8005CFC55 /* logo.png in Resources */,
+				CBF377C9167CAFB2005CFC55 /* mejji.png in Resources */,
+				2FE6049A1680973D00A38EF7 /* kawa5.PNG in Resources */,
+				2FE6049D1680974C00A38EF7 /* kawa6.PNG in Resources */,
+				2FE6049F1680976400A38EF7 /* newBt.PNG in Resources */,
+				2F707175168176CD0092615D /* BGkawa2.PNG in Resources */,
+				2F707178168179280092615D /* BGkawa3.PNG in Resources */,
+				2F94396B16818CAC00D45BAD /* BGkawa4.PNG in Resources */,
+				2F94396E16819D6300D45BAD /* kawano1.PNG in Resources */,
+				2F94397016819EE300D45BAD /* Default.png in Resources */,
+				2F9439721681A13E00D45BAD /* BGkawa5.PNG in Resources */,
+				2F9439781681A9DD00D45BAD /* icon3.PNG in Resources */,
+				2F94397A1681A9F100D45BAD /* icon3.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +280,13 @@
 				CBDD80D6163286D10062D013 /* main.m in Sources */,
 				CBDD80DA163286D10062D013 /* CalculatorAppDelegate.m in Sources */,
 				CBDD80E6163286D10062D013 /* CalculatorViewController.m in Sources */,
+				CBDA00901634DB3E00147AF2 /* transformation.m in Sources */,
+				CBE0C17016352AAB0034E9BE /* CalculatorBrain.m in Sources */,
+				CB0D766116357448004415FE /* Ooperating.m in Sources */,
+				CBEBD48D1644E25700778DE8 /* Inserting.m in Sources */,
+				CBE5BC7216456C1400B5D7FE /* Shiftback.m in Sources */,
+				CBE6362F167B5B27008709B6 /* MyPaletteViewController.m in Sources */,
+				CBE63630167B5B27008709B6 /* Palette.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +368,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Calculator/Calculator-Prefix.pch";
 				INFOPLIST_FILE = "Calculator/Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -269,6 +380,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Calculator/Calculator-Prefix.pch";
 				INFOPLIST_FILE = "Calculator/Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -293,6 +405,7 @@
 				CBDD80EB163286D10062D013 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
